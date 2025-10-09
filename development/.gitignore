@@ -4,3 +4,7 @@
 *.xml
 out/
 *.iml
+
+modules.xml
+
+.idea/
